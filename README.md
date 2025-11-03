@@ -30,7 +30,7 @@ The Farnsworth method keeps the character speed constant but lengthens the spaci
 
 The base time unit (*dot duration*) is calculated as:
 
-
+Tdot = 1200 / WPM
 
 
 | Interval | Duration (dot units) | Description |
