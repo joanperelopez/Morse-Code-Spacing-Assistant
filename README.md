@@ -6,7 +6,7 @@ It helps the operator maintain correct **Farnsworth timing** between characters 
 
 The device monitors the keyer signal, detects symbol endings, and activates visual indicators at precise intervals derived from the selected **effective WPM** (Words Per Minute).
 
-The system is based on an **Arduino Nano**, with a **1602 LCD display** showing the current speed, a **rotary encoder** for adjustment, and a **memory pushbutton** that stores the selected speed in non-volatile EEPROM memory.
+The system is based on an **Arduino Nano**, with a **1602 LCD display** showing the current speed, a **rotary encoder** for adjustment, and a **memory pushbutton** that stores the selected speed in non-volatile EEPROM memory. 
 
 ---
 
