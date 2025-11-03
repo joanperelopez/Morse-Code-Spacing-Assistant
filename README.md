@@ -1,6 +1,36 @@
 # Morse-Code-Spacing-Assistant
-This device acts as a metronome to provide the correct spacing between characters and words in Morse code.
-When we learn Morse code, we learn the characters at high speed (to avoid counting dits and dahs), but we extend the spacing between characters and words to allow for proper identification (Farnsworth), which results in a lower effective speed.
+
+## 1. Overview
+The **CW Visual Metronome** is a training device designed for radio amateurs practicing Morse code (CW).  
+It helps the operator maintain correct **Farnsworth timing** between characters and words by providing **visual cues** through two LEDs.
+
+The device monitors the keyer signal, detects symbol endings, and activates visual indicators at precise intervals derived from the selected **effective WPM** (Words Per Minute).
+
+The system is based on an **Arduino Nano**, with a **1602 LCD display** showing the current speed, a **rotary encoder** for adjustment, and a **memory pushbutton** that stores the selected speed in non-volatile EEPROM memory.
+
+---
+
+## 2. Functional Description
+
+| Function | Description |
+|-----------|--------------|
+| **Keyer input** | Detects the Morse key line. When released, timing intervals begin. |
+| **Character LED** | Lights up when the inter-character interval (3 dot units) has elapsed since the last key release. |
+| **Word LED** | Lights up when the inter-word interval (7 dot units) has elapsed since the last key release. |
+| **Rotary encoder** | Adjusts the effective Farnsworth speed (WPM). |
+| **LCD display** | Shows the current Farnsworth speed in WPM. |
+| **Memory button** | When pressed (active LOW), stores the current speed in EEPROM. |
+| **EEPROM memory** | Retains the last stored speed; restored automatically at startup. |
+
+---
+
+## 3. Timing Definition (Farnsworth Method)
+
+The Farnsworth method keeps the character speed constant but lengthens the spacing between characters and words to achieve a slower **effective WPM** for training.
+
+The base time unit (*dot duration*) is calculated as:
+
+
 
 
 | Interval | Duration (dot units) | Description |
