@@ -140,16 +140,17 @@ LED indicators:
 | **Character spacing** | 3 × Tdot | — |
 | **Word spacing** | 7 × Tdot | — |
 
----
 
-## 10. Author
-Developed by **Pere López Veraguas (EA3AGK)**  
-Barcelona, Spain — 2025
+
+
 
 ---
 
 
 
 <img width="1271" height="861" alt="Metronomo_TOP" src="https://github.com/user-attachments/assets/cfeb9a91-e12c-4f3b-a6e2-9ec90241dd29" />
+TOP view of the circuit
 
 <img width="1271" height="861" alt="Metronomo_BOT" src="https://github.com/user-attachments/assets/445ec403-39f9-428a-92fc-53695e28b293" />
+BOTTOM view of the circuit
+
