@@ -154,3 +154,5 @@ TOP view of the circuit
 <img width="1271" height="861" alt="Metronomo_BOT" src="https://github.com/user-attachments/assets/445ec403-39f9-428a-92fc-53695e28b293" />
 BOTTOM view of the circuit
 
+<img width="778" height="691" alt="Captura de pantalla 2025-11-12 a las 15 01 24" src="https://github.com/user-attachments/assets/4bd9276a-d5ce-4ba9-b849-7221cd380dac" />
+3D Model of the plastic cover
