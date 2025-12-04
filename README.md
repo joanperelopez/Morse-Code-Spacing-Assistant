@@ -156,3 +156,12 @@ BOTTOM view of the circuit
 
 <img width="778" height="691" alt="Captura de pantalla 2025-11-12 a las 15 01 24" src="https://github.com/user-attachments/assets/4bd9276a-d5ce-4ba9-b849-7221cd380dac" />
 3D Model of the plastic cover
+
+![WhatsApp Image 2025-11-18 at 19 28 20 (1)](https://github.com/user-attachments/assets/4601b5a3-05e5-4d75-a51b-0808036c73a7)
+
+![WhatsApp Image 2025-11-18 at 19 28 19 (1)](https://github.com/user-attachments/assets/f5d77e67-30ff-4dcd-915c-dcadc14fa0fd)
+
+![WhatsApp Image 2025-11-18 at 19 28 19](https://github.com/user-attachments/assets/418a3ad5-d83f-4512-8bd6-7de935afc031)
+
+
+
